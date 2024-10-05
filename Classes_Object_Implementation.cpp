@@ -33,3 +33,17 @@ int main(){
     s2.display();
 }
 
+/*
+**OUTPUT**
+Name: Gayatri Ratnaparkhi
+Branch: EnTC
+Year: Second
+Age: 19
+Result: 8.64
+Name: Sakshi Sonawane
+Branch: EnTC
+Year: Second
+Age: 20
+Result: 9.03
+*/
+
