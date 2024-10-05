@@ -26,3 +26,14 @@ int main(){
     c.calculate();
     c.output();
 }
+/*
+**OUTPUT**
+Enter the length:
+10
+Enter the breadth:
+7
+Enter the height:
+8
+Volume of the cuboid is: 560
+*/
+
