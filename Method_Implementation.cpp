@@ -11,3 +11,7 @@ int main() {
     s1.method(); 
     return 0;
 }
+/*
+**OUTPUT**
+Symbiosis Institue Of Technology
+*/
